@@ -10,3 +10,7 @@ class Project(models.Model):
 
     def get_absolute_url(self):
         return reverse("project:projectdetail",kwargs={"id",self.id})
+
+    def __str__(self):
+        a= str(self.pk) +" "+ str(self.title)
+        return a

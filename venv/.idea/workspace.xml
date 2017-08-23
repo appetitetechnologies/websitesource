@@ -46,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="projectdetail.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="projectdetail.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/sourcecode/appetite_tech/project/templates/projectdetail.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+            <state relative-caret-position="306">
+              <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
               <folding />
             </state>
           </provider>
@@ -100,11 +100,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="models.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/sourcecode/appetite_tech/project/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="255">
+              <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -142,10 +142,10 @@
         <option value="$PROJECT_DIR$/sourcecode/appetite_tech/project/admin.py" />
         <option value="$PROJECT_DIR$/sourcecode/appetite_tech/project/urls.py" />
         <option value="$PROJECT_DIR$/sourcecode/appetite_tech/project/views.py" />
-        <option value="$PROJECT_DIR$/sourcecode/appetite_tech/project/models.py" />
         <option value="$PROJECT_DIR$/sourcecode/appetite_tech/appetite_tech/urls.py" />
         <option value="$PROJECT_DIR$/sourcecode/appetite_tech/appetite_tech/settings.py" />
         <option value="$PROJECT_DIR$/sourcecode/appetite_tech/project/templates/projectdetail.html" />
+        <option value="$PROJECT_DIR$/sourcecode/appetite_tech/project/models.py" />
       </list>
     </option>
   </component>
@@ -552,21 +552,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sourcecode/appetite_tech/project/models.py">
+    <entry file="file://$PROJECT_DIR$/sourcecode/appetite_tech/project/templates/projectdetail.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#28#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="306">
+          <caret line="18" column="7" lean-forward="true" selection-start-line="18" selection-start-column="7" selection-end-line="18" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/sourcecode/appetite_tech/project/templates/projectdetail.html">
+    <entry file="file://$PROJECT_DIR$/sourcecode/appetite_tech/project/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-          <folding />
+          <caret line="15" column="16" lean-forward="true" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#28#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
