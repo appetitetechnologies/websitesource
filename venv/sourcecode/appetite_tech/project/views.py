@@ -9,7 +9,7 @@ from . import models
 
 def home(request):
     args={}
-    return render(request,'home.html',args)
+    return render(request,'index.html',args)
 
 def projectlist(request,id=None):
     instance1 = models.Project.objects.all()
